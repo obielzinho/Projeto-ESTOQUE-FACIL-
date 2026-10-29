@@ -27,3 +27,18 @@ Se o Expo informar incompatibilidade de versões, execute `npx expo install --fi
 
 ## Observação
 Este projeto utiliza banco local SQLite e não possui sincronização com serviços em nuvem.
+
+
+
+
+## Funcionalidades 
+
+1 - <img width="396" height="860" alt="Captura de tela 2026-10-28 203252" src="https://github.com/user-attachments/assets/15ee1141-9e5f-4cce-8feb-2a7d711cb997" />
+
+
+2 - <img width="393" height="843" alt="Captura de tela 2026-10-28 203330" src="https://github.com/user-attachments/assets/ae362f0b-47f9-4ab2-bfb6-30da1472f1be" />
+
+
+3 - <img width="383" height="326" alt="Captura de tela 2026-10-28 203359" src="https://github.com/user-attachments/assets/7b95c542-5681-42e6-8b20-970a41c8d2f9" />
+
+
